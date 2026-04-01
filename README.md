@@ -1,20 +1,27 @@
-<!-- HEADER -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2500&color=00D9FF&center=true&vCenter=true&width=700&lines=Kamlesh+Kumar+Gupta;MERN+Stack+Developer;Full+Stack+Engineer;Building+Future+Web+Apps+🚀" />
-</h1>
-
+<!-- 🔥 DYNAMIC HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,100:0f0c29&text=KAMLESH%20KUMAR%20GUPTA&fontColor=00F7FF&fontSize=45&animation=fadeIn&fontAlignY=38"/>
 </p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full+Stack+Engineer;Problem+Solver;Building+Modern+Web+Experiences+🚀" />
+</h3>
 
 ---
 
-## 🧠 Who Am I?
+## 🧬 Developer DNA
 
-<img align="right" height="200" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="180"/>
+</p>
 
-```diff
-+ Name: Kamlesh Kumar Gupta
-+ Role: MERN Stack Developer
-+ Focus: Scalable Web Apps & Clean UI
-+ Passion: Turning Ideas into Products
+```yaml
+Name: Kamlesh Kumar Gupta
+Role: MERN Stack Developer
+Specialization: Full Stack Web Development
+Focus Areas:
+  - Scalable Applications
+  - Clean UI/UX
+  - API Architecture
+  - Performance Optimization
+Mindset: "Consistency > Motivation"
